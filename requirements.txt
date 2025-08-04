@@ -1,0 +1,4 @@
+dotenv
+langchain_tavily
+langchain_openai
+langgraph
