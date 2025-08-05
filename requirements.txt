@@ -2,3 +2,10 @@ dotenv
 langchain_tavily
 langchain_openai
 langgraph
+langchain_core
+pandas
+scikit-learn
+matplotlib
+seaborn
+langchain
+numpy
